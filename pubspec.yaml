@@ -1,7 +1,7 @@
 name: dart_native_demo
 description: Dart CLI demonstrating FFI integration with C++ and Go shared libraries.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/phanithlim/dart-native
 
 environment:
   sdk: ^3.10.8
